@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>generated.Budget</OriginalElement>
+  <nodes>
+    <node x="782.875" y="1185.0">generated.Periode</node>
+    <node x="649.875" y="1062.0">generated.Day</node>
+    <node x="716.7953846153846" y="292.3430769230769">generated.Position</node>
+    <node x="155.10000000000002" y="806.58">generated.TimesSlot</node>
+    <node x="1091.7953846153846" y="314.3430769230769">generated.Types</node>
+    <node x="637.875" y="961.0">generated.Steps</node>
+    <node x="-2.2046153846154084" y="314.3430769230769">generated.Photos</node>
+    <node x="538.7307692307692" y="314.3430769230769">generated.Prices</node>
+    <node x="917.7953846153846" y="292.3430769230769">generated.Contact</node>
+    <node x="521.386153846154" y="213.4353846153846">generated.Price</node>
+    <node x="626.875" y="429.0">generated.POI</node>
+    <node x="520.886153846154" y="112.4353846153846">generated.Conditions</node>
+    <node x="185.7953846153846" y="314.3430769230769">generated.Opening</node>
+    <node x="353.79538461538453" y="314.3430769230769">generated.Themes</node>
+    <node x="819.875" y="1318.0">generated.Itinerary</node>
+    <node x="1029.875" y="1185.0">generated.Budget</node>
+    <node x="598.875" y="816.0">generated.Step</node>
+    <node x="1269.7953846153846" y="314.3430769230769">generated.Styles</node>
+    <node x="661.875" y="1196.0">generated.Days</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="generated.POI" target="generated.Types">
+      <point x="48.09375" y="-168.5" />
+      <point x="760.46875" y="379.0" />
+      <point x="1133.5" y="379.0" />
+      <point x="-39.5" y="25.5" />
+    </edge>
+    <edge source="generated.POI" target="generated.Position">
+      <point x="16.03125" y="-168.5" />
+      <point x="728.40625" y="349.0" />
+      <point x="854.75" y="349.0" />
+      <point x="45.25" y="47.5" />
+    </edge>
+    <edge source="generated.Itinerary" target="generated.Days">
+      <point x="-63.75" y="-47.5" />
+      <point x="832.625" y="1298.0" />
+      <point x="687.125" y="1298.0" />
+      <point x="-25.25" y="25.5" />
+    </edge>
+    <edge source="generated.POI" target="generated.Themes">
+      <point x="-26.71875" y="-168.5" />
+      <point x="685.65625" y="359.0" />
+      <point x="482.74999999999994" y="359.0" />
+      <point x="42.25" y="25.5" />
+    </edge>
+    <edge source="generated.Steps" target="generated.Step">
+      <point x="-37.25" y="-25.5" />
+      <point x="675.125" y="936.0" />
+      <point x="655.625" y="936.0" />
+      <point x="-56.75" y="47.5" />
+    </edge>
+    <edge source="generated.POI" target="generated.Photos">
+      <point x="-69.46875" y="-168.5" />
+      <point x="642.90625" y="399.0" />
+      <point x="126.0" y="399.0" />
+      <point x="42.0" y="25.5" />
+    </edge>
+    <edge source="generated.POI" target="generated.Opening">
+      <point x="-48.09375" y="-168.5" />
+      <point x="664.28125" y="379.0" />
+      <point x="299.0" y="379.0" />
+      <point x="37.0" y="25.5" />
+    </edge>
+    <edge source="generated.Step" target="generated.POI">
+      <point x="-56.75" y="-47.5" />
+      <point x="655.625" y="791.0" />
+      <point x="669.625" y="791.0" />
+      <point x="-42.75" y="168.5" />
+    </edge>
+    <edge source="generated.Days" target="generated.Day">
+      <point x="25.25" y="-25.5" />
+      <point x="737.625" y="1160.0" />
+      <point x="743.625" y="1160.0" />
+      <point x="31.25" y="36.5" />
+    </edge>
+    <edge source="generated.Itinerary" target="generated.Periode">
+      <point x="-12.75" y="-47.5" />
+      <point x="883.625" y="1278.0" />
+      <point x="839.625" y="1278.0" />
+      <point x="-56.75" y="36.5" />
+    </edge>
+    <edge source="generated.Prices" target="generated.Price">
+      <point x="38.5" y="-25.5" />
+      <point x="660.5" y="199.0" />
+      <point x="669.0" y="199.0" />
+      <point x="47.0" y="36.5" />
+    </edge>
+    <edge source="generated.POI" target="generated.Prices">
+      <point x="-16.03125" y="-168.5" />
+      <point x="696.34375" y="349.0" />
+      <point x="583.5" y="349.0" />
+      <point x="-38.5" y="25.5" />
+    </edge>
+    <edge source="generated.POI" target="generated.Contact">
+      <point x="26.71875" y="-168.5" />
+      <point x="739.09375" y="359.0" />
+      <point x="958.5" y="359.0" />
+      <point x="-38.5" y="47.5" />
+    </edge>
+    <edge source="generated.Day" target="generated.Steps">
+      <point x="31.25" y="-36.5" />
+      <point x="743.625" y="1037.0" />
+      <point x="749.625" y="1037.0" />
+      <point x="37.25" y="25.5" />
+    </edge>
+    <edge source="generated.Itinerary" target="generated.Budget">
+      <point x="63.75" y="-47.5" />
+      <point x="960.125" y="1298.0" />
+      <point x="1143.125" y="1298.0" />
+      <point x="37.75" y="36.5" />
+    </edge>
+    <edge source="generated.Price" target="generated.Conditions">
+      <point x="47.0" y="-36.5" />
+      <point x="47.25" y="25.5" />
+    </edge>
+    <edge source="generated.POI" target="generated.Styles">
+      <point x="69.46875" y="-168.5" />
+      <point x="781.84375" y="399.0" />
+      <point x="1302.5" y="399.0" />
+      <point x="-30.5" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.49205147615442846" x="694.5" y="762.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>public</VISIBILITY>
+</Diagram>
+

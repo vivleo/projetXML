@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6099544c-0057-440d-b347-f48d366ff495" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/generated/Itinerary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/generated/Itineraries.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controller/VisitPlanController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="138" selection-start-line="138" selection-end-line="138" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#828#852#0" expanded="true" />
+                <element signature="method#truc#0;class#VisitPlanController#0" />
+                <element signature="e#4626#4627#0" expanded="true" />
+                <element signature="e#4671#4672#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/Display.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#360#384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entities/itineray.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-242">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/generated/Conditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1518">
+              <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/generated/Conditions.java" />
+        <option value="$PROJECT_DIR$/iti1.xml" />
+        <option value="$PROJECT_DIR$/src/view/display.fxml" />
+        <option value="$PROJECT_DIR$/src/view/Display.java" />
+        <option value="$PROJECT_DIR$/src/controller/VisitPlanController.java" />
+        <option value="$PROJECT_DIR$/src/generated/Itineraries.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VisitPlanApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisitPlanApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VisitPlanApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisitPlanApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VisitPlanApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisitPlanApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VisitPlanApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisitPlanApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VisitPlanApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisitPlanApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VisitPlanApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VisitPlanApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555496932223" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Display" />
+      <module name="VisitPlanApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.VisitPlanController" />
+      <module name="VisitPlanApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Display" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Display" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6099544c-0057-440d-b347-f48d366ff495" name="Default Changelist" comment="" />
+      <created>1554377424571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554377424571</updated>
+      <workItem from="1554377428241" duration="2157000" />
+      <workItem from="1554390496517" duration="853000" />
+      <workItem from="1554750856673" duration="985000" />
+      <workItem from="1555358344163" duration="6527000" />
+      <workItem from="1555414720566" duration="3349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13871000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1825525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40056023" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32913166" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/generated/Steps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Step.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Themes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Days.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Day.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/POI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="96" column="34" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Prices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Price.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/generated.Budget">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>generated.Budget</OriginalElement>
+          <nodes>
+            <node x="615.0650478778457" y="1382.0">generated.Periode</node>
+            <node x="1195.7852859730838" y="1259.0">generated.Day</node>
+            <node x="1547.000744047619" y="391.0">generated.Position</node>
+            <node x="1488.5110345496896" y="0.0">generated.TimesSlot</node>
+            <node x="961.1602859730838" y="1850.0">generated.ObjectFactory</node>
+            <node x="1412.844367883023" y="246.0">generated.Opening.Periode</node>
+            <node x="952.4727859730838" y="413.0">generated.Types</node>
+            <node x="1222.935267857143" y="1158.0">generated.Steps</node>
+            <node x="752.5587797619048" y="413.0">generated.Photos</node>
+            <node x="393.9434523809524" y="391.0">generated.Contact</node>
+            <node x="218.9434523809524" y="413.0">generated.Prices</node>
+            <node x="828.7775297619048" y="616.0">generated.POI</node>
+            <node x="89.84821428571433" y="257.0">generated.Price</node>
+            <node x="84.22321428571433" y="134.0">generated.Conditions</node>
+            <node x="1379.000744047619" y="413.0">generated.Opening</node>
+            <node x="1749.000744047619" y="413.0">generated.Themes</node>
+            <node x="1496.5110345496896" y="123.0">generated.Opening.Periode.Day</node>
+            <node x="863.0650478778457" y="1515.0">generated.Itinerary</node>
+            <node x="902.7852859730838" y="1382.0">generated.Budget</node>
+            <node x="76.94345238095241" y="413.0">generated.Styles</node>
+            <node x="1028.175005175982" y="1003.0">generated.Step</node>
+            <node x="1073.7852859730838" y="1393.0">generated.Days</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="generated.Step" target="generated.POI">
+              <point x="56.75" y="-47.5" />
+              <point x="1198.425005175982" y="973.0" />
+              <point x="978.4025297619048" y="973.0" />
+              <point x="64.125" y="168.5" />
+            </edge>
+            <edge source="generated.Days" target="generated.Day">
+              <point x="25.25" y="-25.5" />
+              <point x="1149.5352859730838" y="1362.0" />
+              <point x="1242.6602859730838" y="1362.0" />
+              <point x="-15.625" y="36.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Step">
+              <point x="11.166666666666742" y="-14.5" />
+              <point x="1039.3269526397505" y="1660.0" />
+              <point x="1185.2852859730838" y="1660.0" />
+              <point x="1185.2852859730838" y="1138.0" />
+              <point x="1113.300005175982" y="1138.0" />
+              <point x="-28.375" y="47.5" />
+            </edge>
+            <edge source="generated.Opening.Periode.Day" target="generated.TimesSlot">
+              <point x="52.75" y="-36.5" />
+              <point x="1654.7610345496896" y="98.0" />
+              <point x="1630.3860345496896" y="98.0" />
+              <point x="28.375" y="36.5" />
+            </edge>
+            <edge source="generated.Itinerary" target="generated.Periode">
+              <point x="-38.25" y="-47.5" />
+              <point x="901.3150478778457" y="1485.0" />
+              <point x="813.6900478778457" y="1485.0" />
+              <point x="85.12499999999989" y="36.5" />
+            </edge>
+            <edge source="generated.POI" target="generated.Types">
+              <point x="5.34375" y="-168.5" />
+              <point x="919.6212797619048" y="526.0" />
+              <point x="972.2227859730838" y="526.0" />
+              <point x="-59.25" y="25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Photos">
+              <point x="-30.309523809523853" y="-14.5" />
+              <point x="997.8507621635599" y="1720.0" />
+              <point x="485.6631004140773" y="1720.0" />
+              <point x="485.6631004140773" y="586.0" />
+              <point x="773.5587797619048" y="586.0" />
+              <point x="-63.0" y="25.5" />
+            </edge>
+            <edge source="generated.Prices" target="generated.Price">
+              <point x="-38.5" y="-25.5" />
+              <point x="257.4434523809524" y="371.0" />
+              <point x="207.34821428571433" y="371.0" />
+              <point x="23.5" y="36.5" />
+            </edge>
+            <edge source="generated.POI" target="generated.Position">
+              <point x="48.09375" y="-168.5" />
+              <point x="962.3712797619048" y="566.0" />
+              <point x="1569.625744047619" y="566.0" />
+              <point x="-67.875" y="47.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Opening.Periode">
+              <point x="55.83333333333326" y="-14.5" />
+              <point x="1083.993619306417" y="1800.0" />
+              <point x="1928.500744047619" y="1800.0" />
+              <point x="1928.500744047619" y="361.0" />
+              <point x="1617.1443678830233" y="361.0" />
+              <point x="90.80000000000018" y="47.5" />
+            </edge>
+            <edge source="generated.Itinerary" target="generated.Days">
+              <point x="38.25" y="-47.5" />
+              <point x="977.8150478778457" y="1485.0" />
+              <point x="1086.4102859730838" y="1485.0" />
+              <point x="-37.875" y="25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.TimesSlot">
+              <point x="-65.40476190476193" y="-14.5" />
+              <point x="962.7555240683218" y="1830.0" />
+              <point x="26.0" y="1830.0" />
+              <point x="26.0" y="98.0" />
+              <point x="1516.8860345496896" y="98.0" />
+              <point x="-85.125" y="36.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Contact">
+              <point x="-36.69047619047615" y="-14.5" />
+              <point x="991.4698097826076" y="1740.0" />
+              <point x="430.84821428571433" y="1740.0" />
+              <point x="430.84821428571433" y="596.0" />
+              <point x="413.1934523809524" y="596.0" />
+              <point x="-57.75" y="47.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Styles">
+              <point x="-52.64285714285711" y="-14.5" />
+              <point x="975.5174288302267" y="1790.0" />
+              <point x="105.84821428571433" y="1790.0" />
+              <point x="105.84821428571433" y="596.0" />
+              <point x="92.19345238095241" y="596.0" />
+              <point x="-45.75" y="25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Types">
+              <point x="27.119047619047706" y="-14.5" />
+              <point x="1055.2793335921315" y="1710.0" />
+              <point x="1382.435267857143" y="1710.0" />
+              <point x="1382.435267857143" y="536.0" />
+              <point x="1051.2227859730838" y="536.0" />
+              <point x="19.75" y="25.5" />
+            </edge>
+            <edge source="generated.POI" target="generated.Themes">
+              <point x="69.46875" y="-168.5" />
+              <point x="983.7462797619048" y="586.0" />
+              <point x="1770.125744047619" y="586.0" />
+              <point x="-63.375" y="25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Opening">
+              <point x="33.5" y="-14.5" />
+              <point x="1061.6602859730838" y="1730.0" />
+              <point x="1471.500744047619" y="1730.0" />
+              <point x="18.5" y="25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Periode">
+              <point x="-14.35714285714289" y="-14.5" />
+              <point x="1013.8031431159409" y="1670.0" />
+              <point x="673.4102859730838" y="1670.0" />
+              <point x="673.4102859730838" y="1495.0" />
+              <point x="700.1900478778457" y="1495.0" />
+              <point x="-28.375" y="36.5" />
+            </edge>
+            <edge source="generated.POI" target="generated.Contact">
+              <point x="-37.40625" y="-168.5" />
+              <point x="876.8712797619048" y="536.0" />
+              <point x="490.1934523809524" y="536.0" />
+              <point x="19.25" y="47.5" />
+            </edge>
+            <edge source="generated.POI" target="generated.Prices">
+              <point x="-58.78125" y="-168.5" />
+              <point x="855.4962797619048" y="556.0" />
+              <point x="315.1934523809524" y="556.0" />
+              <point x="19.25" y="25.5" />
+            </edge>
+            <edge source="generated.Day" target="generated.Steps">
+              <point x="-31.25" y="-36.5" />
+              <point x="1227.0352859730838" y="1234.0" />
+              <point x="1241.560267857143" y="1234.0" />
+              <point x="-55.875" y="25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.POI">
+              <point x="-23.92857142857133" y="-14.5" />
+              <point x="1004.2317145445124" y="1700.0" />
+              <point x="548.6534633799166" y="1700.0" />
+              <point x="548.6534633799166" y="973.0" />
+              <point x="850.1525297619048" y="973.0" />
+              <point x="-64.125" y="168.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Itinerary">
+              <point x="-7.976190476190368" y="-14.5" />
+              <point x="1020.1840954968934" y="1650.0" />
+              <point x="901.3150478778457" y="1650.0" />
+              <point x="-38.25" y="47.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Opening.Periode.Day">
+              <point x="62.21428571428578" y="-14.5" />
+              <point x="1090.3745716873696" y="1820.0" />
+              <point x="1934.8816964285716" y="1820.0" />
+              <point x="1934.8816964285716" y="216.0" />
+              <point x="1686.4110345496897" y="216.0" />
+              <point x="84.40000000000009" y="36.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Conditions">
+              <point x="-62.21428571428578" y="-14.5" />
+              <point x="965.946000258798" y="1820.0" />
+              <point x="44.657738095238074" y="1820.0" />
+              <point x="44.657738095238074" y="226.0" />
+              <point x="107.84821428571433" y="226.0" />
+              <point x="-70.875" y="25.5" />
+            </edge>
+            <edge source="generated.Steps" target="generated.Step">
+              <point x="37.25" y="-25.5" />
+              <point x="1334.685267857143" y="1118.0" />
+              <point x="1226.800005175982" y="1118.0" />
+              <point x="85.125" y="47.5" />
+            </edge>
+            <edge source="generated.POI" target="generated.Photos">
+              <point x="-16.03125" y="-168.5" />
+              <point x="898.2462797619048" y="516.0" />
+              <point x="857.5587797619048" y="516.0" />
+              <point x="21.0" y="25.5" />
+            </edge>
+            <edge source="generated.Itinerary" target="generated.Budget">
+              <point x="12.75" y="-47.5" />
+              <point x="952.3150478778457" y="1495.0" />
+              <point x="959.4102859730838" y="1495.0" />
+              <point x="-18.875" y="36.5" />
+            </edge>
+            <edge source="generated.POI" target="generated.Opening">
+              <point x="37.40625" y="-168.5" />
+              <point x="951.6837797619048" y="556.0" />
+              <point x="1434.500744047619" y="556.0" />
+              <point x="-18.5" y="25.5" />
+            </edge>
+            <edge source="generated.Opening" target="generated.Opening.Periode">
+              <point x="-49.33333333333326" y="-25.5" />
+              <point x="1403.6674107142858" y="371.0" />
+              <point x="1435.544367883023" y="371.0" />
+              <point x="-90.79999999999995" y="47.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Steps">
+              <point x="20.738095238095184" y="-14.5" />
+              <point x="1048.898381211179" y="1690.0" />
+              <point x="1331.2852859730838" y="1690.0" />
+              <point x="1331.2852859730838" y="1234.0" />
+              <point x="1316.060267857143" y="1234.0" />
+              <point x="18.625" y="25.5" />
+            </edge>
+            <edge source="generated.Price" target="generated.Conditions">
+              <point x="-47.0" y="-36.5" />
+              <point x="136.84821428571433" y="226.0" />
+              <point x="155.09821428571433" y="226.0" />
+              <point x="-23.625" y="25.5" />
+            </edge>
+            <edge source="generated.Opening.Periode" target="generated.Opening">
+              <point x="0.0" y="47.5" />
+              <point x="1526.344367883023" y="371.0" />
+              <point x="1502.3340773809523" y="371.0" />
+              <point x="49.33333333333326" y="-25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Day">
+              <point x="17.547619047619037" y="-14.5" />
+              <point x="1045.7079050207028" y="1680.0" />
+              <point x="1302.247767857143" y="1680.0" />
+              <point x="1302.247767857143" y="1362.0" />
+              <point x="1305.1602859730838" y="1362.0" />
+              <point x="46.875" y="36.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Position">
+              <point x="43.07142857142867" y="-14.5" />
+              <point x="1071.2317145445124" y="1760.0" />
+              <point x="1688.7546538561069" y="1760.0" />
+              <point x="1688.7546538561069" y="576.0" />
+              <point x="1705.375744047619" y="576.0" />
+              <point x="67.875" y="47.5" />
+            </edge>
+            <edge source="generated.Opening.Periode.Day" target="generated.Opening.Periode">
+              <point x="0.0" y="36.5" />
+              <point x="75.66666666666652" y="-47.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Themes">
+              <point x="52.64285714285711" y="-14.5" />
+              <point x="1080.8031431159409" y="1790.0" />
+              <point x="1881.7546538561069" y="1790.0" />
+              <point x="1881.7546538561069" y="596.0" />
+              <point x="1896.875744047619" y="596.0" />
+              <point x="63.375" y="25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Price">
+              <point x="-55.83333333333326" y="-14.5" />
+              <point x="972.3269526397505" y="1800.0" />
+              <point x="66.44345238095241" y="1800.0" />
+              <point x="66.44345238095241" y="371.0" />
+              <point x="160.34821428571433" y="371.0" />
+              <point x="-23.5" y="36.5" />
+            </edge>
+            <edge source="generated.POI" target="generated.Styles">
+              <point x="-80.15625" y="-168.5" />
+              <point x="834.1212797619048" y="576.0" />
+              <point x="153.1934523809524" y="576.0" />
+              <point x="15.25" y="25.5" />
+            </edge>
+            <edge source="generated.Opening.Periode" target="generated.Opening.Periode.Day">
+              <point x="-75.66666666666652" y="-47.5" />
+              <point x="1450.6777012163566" y="226.0" />
+              <point x="1517.6110345496895" y="226.0" />
+              <point x="-84.40000000000009" y="36.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Budget">
+              <point x="1.5952380952380736" y="-14.5" />
+              <point x="1029.7555240683218" y="1630.0" />
+              <point x="1078.810267857143" y="1630.0" />
+              <point x="1078.810267857143" y="1475.0" />
+              <point x="1034.9102859730838" y="1475.0" />
+              <point x="56.625" y="36.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Days">
+              <point x="4.785714285714221" y="-14.5" />
+              <point x="1032.946000258798" y="1640.0" />
+              <point x="1147.9400478778457" y="1640.0" />
+              <point x="1147.9400478778457" y="1495.0" />
+              <point x="1136.9102859730838" y="1495.0" />
+              <point x="12.625" y="25.5" />
+            </edge>
+            <edge source="generated.ObjectFactory" target="generated.Prices">
+              <point x="-43.07142857142844" y="-14.5" />
+              <point x="985.0888574016553" y="1760.0" />
+              <point x="260.0177309782613" y="1760.0" />
+              <point x="260.0177309782613" y="596.0" />
+              <point x="276.6934523809524" y="596.0" />
+              <point x="-19.25" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.4877462758289284" x="472.0" y="472.0" />
+          <SelectedNodes>
+            <node>generated.Budget</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>Production</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iti1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iti2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/display.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/generated/Conditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/ObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7291">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/itineray.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Itinerary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/Itineraries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plan.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/VisitPlanController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#828#852#0" expanded="true" />
+            <element signature="method#truc#0;class#VisitPlanController#0" />
+            <element signature="e#4626#4627#0" expanded="true" />
+            <element signature="e#4671#4672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
